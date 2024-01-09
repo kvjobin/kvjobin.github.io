@@ -1,2 +1,4 @@
 # kvjobin.github.io
-personal web
+
+this repository is a sample and first repositoty in this account
+
